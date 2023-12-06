@@ -1,0 +1,10 @@
+{
+  "type": "frontend",
+  "name": "reservation-doctors",
+  "extends": null,
+  "caption": "Doctors Reservation",
+  "version": "1.4.2",
+  "assetPath": "assets\/themes\/reservation-doctors",
+  "routeNamespace": "Corals\\Modules\\Reservation\\Http\\Controllers",
+  "platform": "Reservation"
+}
