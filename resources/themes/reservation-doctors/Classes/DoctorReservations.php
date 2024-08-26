@@ -3,7 +3,7 @@
 namespace Corals\Modules\Reservation\Classes;
 
 
-use Corals\Modules\CMS\Models\Category;
+use Corals\Utility\Category\Models\Category;
 use Corals\Modules\Payment\Common\Models\Invoice;
 use Corals\Modules\Reservation\Facades\ReservationFacade;
 use Corals\Modules\Reservation\Models\Reservation;
